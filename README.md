@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Flutter App for on-demand business
+- 🌱 I’m currently learning AI, data analysis, ML
+- 👯 I’m looking to collaborate on Python Projects
+- 📫 How to reach me: charleyoshi2@gmail.com
+- 😄 Pronouns: Hershey's
+
+
 <!--
 **charleyoshi/charleyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
