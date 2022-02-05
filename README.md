@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some Python projects eg. wordle, nerdle
+- 🔭 I’m currently working on some simple Python projects eg. wordle, nerdle
 - 🌱 I’m currently learning AI, data analysis, ML with Python
 - 👯 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: charleyoshi2@gmail.com
