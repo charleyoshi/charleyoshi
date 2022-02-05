@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Flutter App for on-demand business
-- 🌱 I’m currently learning AI, data analysis, ML
+- 🔭 I’m currently working on some Python projects eg. wordle, nerdle
+- 🌱 I’m currently learning AI, data analysis, ML with Python
 - 👯 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: charleyoshi2@gmail.com
 - 😄 Pronouns: Hershey's
