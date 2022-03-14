@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 'Machine Learning with Python' by freecodecamp.org
-- 🌱 I’m currently learning AI, data analysis, ML with Python
+- 🔭 I’m currently working on AI, ML, DL Projects
+- 🌱 I’m currently learning on 'Machine Learning with Python' by freecodecamp.org
 - 👯 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: charleyoshi2@gmail.com
+-     Website: https://github.charleyoshi.io
+-     Kaggle: https://www.kaggle.com/charleyoshi
 - 😄 Pronouns: Hershey's
 
 
