@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on AI, ML, DL Projects
 - 🌱 I’m currently learning on 'Machine Learning with Python' by freecodecamp.org
 - 👯 I’m looking to collaborate on Python Projects
-- 📫 How to reach me: charleyoshi2@gmail.com
 - 📫 Website: [charleyoshi.com](https://charleyoshi.com/)
+- 📫 How to reach me: charleyoshi2@gmail.com
 - 📫 Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - 😄 Pronouns: Hershey's
 
