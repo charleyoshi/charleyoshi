@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning on 'Machine Learning with Python' by freecodecamp.org
 - 👯 I’m looking to collaborate on Python Projects
 - 📫 Website: [charleyoshi.com](https://charleyoshi.com/)
-- 📫 How to reach me: charleyoshi2@gmail.com
+- 📫 E-mail: charleyoshi2@gmail.com
 - 📫 Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - 😄 Pronouns: Hershey's
 
