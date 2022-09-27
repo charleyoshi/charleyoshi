@@ -8,6 +8,8 @@
 - 📫 Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - 😄 Pronouns: Hershey's
 
+- 🔥 Recent project:
+    [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
 
 <!--
 **charleyoshi/charleyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
