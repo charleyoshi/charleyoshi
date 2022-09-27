@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔥 Recent project: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
 - 🔭 I’m currently working on AI, ML, DL Projects
 - 🌱 I’m currently learning on 'Machine Learning with Python' by freecodecamp.org
 - 👯 I’m looking to collaborate on Python Projects
@@ -8,8 +9,7 @@
 - 📫 Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - 😄 Pronouns: Hershey's
 
-- 🔥 Recent project:
-    [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
+
 
 <!--
 **charleyoshi/charleyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
