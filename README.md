@@ -1,7 +1,7 @@
 # Charley Yoshi 🎈
 
 ## 👽 About me  
-[charleyoshi.com](https://charleyoshi.com/) _
+[charleyoshi.com](https://charleyoshi.com/) <br/>
 Hi, I'm Charley Yoshi.
 
 ## 🔥 Hightlights
