@@ -9,12 +9,12 @@ Hi, I'm Charley Yoshi.
 - I’m currently working on AI, ML, DL Projects
 <!-- - 👯 I’m looking to collaborate on Python Project -->
 
-## 🔭 Currently studying 
-  - 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
+## 📚 Currently studying 
+  - [ ] 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
 
-### Finished studying
-  - [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
-  - cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+### 📚 Finished studying
+  - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
+  - [x] cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 ## 🎓 Background
   - Bachelor of Science
