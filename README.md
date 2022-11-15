@@ -1,27 +1,40 @@
-### Hi there 👋
+# Charley Yoshi 🎈
 
-- 🔥 Recent project: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
-- 🔭 I’m currently working on AI, ML, DL Projects
-- 🌱 I’m currently learning on 'Machine Learning with Python' by freecodecamp.org
-- 👯 I’m looking to collaborate on Python Projects
-- 📫 Website: [charleyoshi.com](https://charleyoshi.com/)
-- 📫 E-mail: charleyoshi2@gmail.com
-- 📫 Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
-- 😄 Pronouns: Hershey's
+## 👽 About me  
+[charleyoshi.com](https://charleyoshi.com/)
+Hi, I'm Charley Yoshi.
+
+## 🔥 Hightlights
+- Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
+- I’m currently working on AI, ML, DL Projects
+<!-- - 👯 I’m looking to collaborate on Python Project -->
+
+## 🔭 Currently studying 
+  - 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
+
+### Finished studying
+  - [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
+  - cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+
+## 🎓 Background
+  - Bachelor of Science
+  - Diploma in Software Development (Graduate in 2024)
+
+## :envelope: Contacts
+- E-mail: charleyoshi2@gmail.com
+- Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
+- Pronouns: Hershey's
+
+
+
+
+
+
+
+
 
 
 
 <!--
 **charleyoshi/charleyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Flutter App for on-demand business
-- 🌱 I’m currently learning AI, data analysis, ML
-- 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: charleyoshi2@gmail.com
-- 😄 Pronouns: Hershey's
-- ⚡ Fun fact: ...
 -->
