@@ -20,8 +20,9 @@ Hi, I'm Charley Yoshi.
   - Bachelor of Science
   - Diploma in Software Development (Graduate in 2024)
 
-## :envelope: Contacts
+## :envelope: Contacts / Profiles
 - E-mail: charleyoshi2@gmail.com
+- Hackerrank: [hackerrank.com/charleyoshi](https://www.hackerrank.com/charleyoshi)
 - Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - Pronouns: Hershey's
 
