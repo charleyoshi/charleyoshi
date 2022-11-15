@@ -1,4 +1,4 @@
-# Charley Yoshi 🎈
+# 🎈 Charley Yoshi 
 
 ## 👽 About me  
 [charleyoshi.com](https://charleyoshi.com/) <br/>
