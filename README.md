@@ -5,12 +5,14 @@
 Hi, I'm Charley Yoshi.
 
 ## 🔥 Hightlights
+- Recently launched: [my@s](https://myats.me) - Create your own @social tag
 - Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
 - I’m currently working on AI, ML, DL Projects
 <!-- - 👯 I’m looking to collaborate on Python Project -->
 
 ## 📚 Currently studying 
   - [ ] 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
+  - [ ] ['Grokking Deep Learning'](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
 
 ### 📚 Finished studying
   - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
