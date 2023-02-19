@@ -11,8 +11,8 @@ Hi, I'm Charley Yoshi.
 <!-- - 👯 I’m looking to collaborate on Python Project -->
 
 ## 📚 Currently studying 
-  - [ ] 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
   - [ ] ['Grokking Deep Learning'](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
+  - [ ] 'Machine Learning with Python' by [freecodecamp.org](https://www.freecodecamp.org/)
 
 ### 📚 Finished studying
   - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
