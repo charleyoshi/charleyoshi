@@ -7,10 +7,11 @@ Hi, I'm Charley Yoshi.
 ## 🔥 Hightlights
 - Recently launched: [my@s](https://myats.me) - Create your own @social tag
 - Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!! A Full-stack MERN applicaiton
-- I’m currently working on AI, ML, DL Projects
-<!-- - 👯 I’m looking to collaborate on Python Project -->
 
-## 📚 Currently studying 
+<!--   - I’m currently working on AI, ML, DL Projects
+- 👯 I’m looking to collaborate on Python Project -->
+
+## 📚 Currently Working On 
   - [ ] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
   
 
