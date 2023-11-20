@@ -6,18 +6,19 @@ Hi, I'm Charley Yoshi.
 
 ## 🔥 Hightlights
 - Recently launched: [my@s](https://myats.me) - Create your own @social tag
-- Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!!
+- Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!! A Full-stack MERN applicaiton
 - I’m currently working on AI, ML, DL Projects
 <!-- - 👯 I’m looking to collaborate on Python Project -->
 
 ## 📚 Currently studying 
-  - [ ] ['Grokking Deep Learning'](https://www.manning.com/books/grokking-deep-learning) | Andrew W. Trask
-  - [ ] 'Machine Learning with Python' | [freecodecamp.org](https://www.freecodecamp.org/)
+  - [ ] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+  
 
 ### 📚 Finished studying
   - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
   - [x] cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
-  - [x] Python Machine Learning | Wei-Meng Lee 
+  - [x] Python Machine Learning | Wei-Meng Lee
+  - [x] 'Machine Learning with Python' | [freecodecamp.org](https://www.freecodecamp.org/)
 
 ## 🎓 Background
   - Bachelor of Science
