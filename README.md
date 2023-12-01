@@ -5,8 +5,9 @@
 Hi, I'm Charley Yoshi.
 
 ## 🔥 Hightlights
-- Recently launched: [my@s](https://myats.me) - Create your own @social tag
 - Recently launched: [cato](https://comments-are-turned-off.onrender.com) - Comments are turned off? Turn it back on!!! A Full-stack MERN applicaiton
+- Recently launched: [my@s](https://myats.me) - Create your own @social tag
+
 
 <!--   - I’m currently working on AI, ML, DL Projects
 - 👯 I’m looking to collaborate on Python Project -->
