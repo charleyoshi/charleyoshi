@@ -5,7 +5,7 @@
 Hi, I'm Charley Yoshi.
 
 ## 🔥 Hightlights
-- Recently launched: [cato](https://comments-are-turned-off.onrender.com) - Comments are turned off? Turn it back on!!! A Full-stack MERN applicaiton
+- Recently launched: [cato](https://catoapp.com) - Comments are turned off? Turn it back on!!! A Full-stack MERN applicaiton
 - Recently launched: [my@s](https://myats.me) - Create your own @social tag
 
 
