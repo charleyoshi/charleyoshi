@@ -14,7 +14,7 @@ Hi, I'm Charley Yoshi.
 
 ## 📚 Currently Working On
   - [ ] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
-  - [ ] [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.ca/Practical-Object-Oriented-Design-Agile-Primer/dp/0134456475)
+  - [ ] [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.ca/Practical-Object-Oriented-Design-Agile-Primer/dp/0134456475) by Sandi Metz
   
 
 ### 📚 Finished studying
