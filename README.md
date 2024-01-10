@@ -22,7 +22,7 @@ Hi, I'm Charley Yoshi.
   - [x] cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
   - [x] Python Machine Learning | Wei-Meng Lee
   - [x] 'Machine Learning with Python' | [freecodecamp.org](https://www.freecodecamp.org/)
-  - [x] [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) | Launch School 
+  - [x] 'Object Oriented Programming with Ruby' | [Launch School](https://launchschool.com/books/oo_ruby)
 
 ## 🎓 Background
   - Bachelor of Science
