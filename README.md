@@ -12,8 +12,9 @@ Hi, I'm Charley Yoshi.
 <!--   - I’m currently working on AI, ML, DL Projects
 - 👯 I’m looking to collaborate on Python Project -->
 
-## 📚 Currently Working On 
+## 📚 Currently Working On
   - [ ] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+  - [ ] [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.ca/Practical-Object-Oriented-Design-Agile-Primer/dp/0134456475)
   
 
 ### 📚 Finished studying
