@@ -12,17 +12,18 @@ Hi, I'm Charley Yoshi.
 <!--   - I’m currently working on AI, ML, DL Projects
 - 👯 I’m looking to collaborate on Python Project -->
 
-## 📚 Currently Working On
-  - [ ] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
-  - [ ] [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.ca/Practical-Object-Oriented-Design-Agile-Primer/dp/0134456475) by Sandi Metz
-  
+<!--  ## 📚 Currently Working On -->
+
 
 ### 📚 Finished studying
-  - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
-  - [x] cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
-  - [x] Python Machine Learning | Wei-Meng Lee
-  - [x] 'Machine Learning with Python' | [freecodecamp.org](https://www.freecodecamp.org/)
+  - [x] The Odin Project - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+  - [x] [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.ca/Practical-Object-Oriented-Design-Agile-Primer/dp/0134456475) by Sandi Metz
   - [x] 'Object Oriented Programming with Ruby' | [Launch School](https://launchschool.com/books/oo_ruby)
+  - [x] 'Machine Learning with Python' | [freecodecamp.org](https://www.freecodecamp.org/)
+  - [x] Python Machine Learning | Wei-Meng Lee
+  - [x] cs50’s [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+  - [x] [cs50](https://cs50.harvard.edu/x/2021/) Introduction to Computer Science | Harvard University 
+  
 
 ## 🎓 Background
   - Bachelor of Science
@@ -30,6 +31,7 @@ Hi, I'm Charley Yoshi.
 
 ## :envelope: Contacts / Profiles
 - E-mail: charleyoshi2@gmail.com
+- Linkedin: [linkedin.com/charleyoshi](https://www.linkedin.com/in/charley-yoshi-9a7743236/)
 - Hackerrank: [hackerrank.com/charleyoshi](https://www.hackerrank.com/charleyoshi)
 - Kaggle: [kaggle.com/charleyoshi](https://www.kaggle.com/charleyoshi)
 - Pronouns: Hershey's
