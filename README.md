@@ -27,7 +27,7 @@ Hi, I'm Charley Yoshi.
 
 ## 🎓 Background
   - Bachelor of Science
-  - Diploma in Software Development (Graduate in 2024)
+  - Diploma in Software Development
 
 ## :envelope: Contacts / Profiles
 - E-mail: charleyoshi2@gmail.com
